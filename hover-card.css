@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1,h2,span {
+    margin: 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+}
+
+.col {
+    padding: 0 10px;
+}
